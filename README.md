@@ -1,1 +1,1 @@
-# Spring FrameWork App + Deployment Solution
+# spring framework app + deployment solution
